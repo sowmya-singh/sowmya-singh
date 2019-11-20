@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+    printf("\nS S S S S   O O O O O O   W       W       W");
+    printf("\nS           O         O   W       W       W");
+    printf("\nS           O         O   W       W       W");
+    printf("\nS S S S S   O         O   W       W       W");
+    printf("\n        S   O         O   W       W       W");
+    printf("\n        S   O         O   W       W       W");
+    printf("\nS S S S S   O O O O O O   W W W W W W W W W");
+    return 0;
+}
